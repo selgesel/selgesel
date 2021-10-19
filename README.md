@@ -1,7 +1,7 @@
 ## About Me
 Hi, I'm an avid gamer and an experienced software developer. I've been sitting in front of a computer since 1993, and I've dreamt of making games ever since.
 
-I'm currently doing gamedev as a hobby, but I intend to do it full-time and ditch my professional career as a software engineering.
+I'm currently doing gamedev as a hobby, but I intend to do it full-time and ditch my professional career as a software engineer.
 
 For me, sharing is an important part of the learning process, so I try my best to turn what I've learned into bite sized pieces and share them with others.
 
